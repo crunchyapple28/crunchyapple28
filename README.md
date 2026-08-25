@@ -1,6 +1,6 @@
 ## hi hi ! 🍏
 
-my name's medina & i'm a cyber security student interested in;
+i'm a cyber security student interested in;
 
 - digital forensics
 - incident response
